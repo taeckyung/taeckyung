@@ -7,6 +7,10 @@ Taeckyung LEE
 Education
 ---------
 
+**M.S. in Electrical Engineering, KAIST** (Aug 2020 - )
+
+- Networking and Mobile Systems Lab (Advisor: Sung-Ju Lee)
+
 **B.S. in School of Computing, KAIST** (Feb 2016 - Aug 2020)
 
 - Advanced Major
