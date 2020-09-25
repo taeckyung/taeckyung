@@ -57,6 +57,7 @@ Awards & Honors
 ---------------
 
 **The National Scholarship for Science and Engineering** (2018 - 2019)
+**Kwon Young-Se Scholarship, School of Electrical Engineering, KAIST** (2020 Fall)
 
 
 Technical Experience
