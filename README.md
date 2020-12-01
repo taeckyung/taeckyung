@@ -15,6 +15,7 @@ Education
 
 - Advanced Major
 - Certificate in AI
+- Magna Cum Laude
 
 
 Work Experience
