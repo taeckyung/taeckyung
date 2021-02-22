@@ -51,7 +51,7 @@ Class Projects
 
 - In-depth analysis of the human personality (MBTI) and in-game factors of League of Legends players by surveying collaboration with the Professional Spectator Youtube channel (리그 오브 레전드의 주 플레이 챔피언과 관련된 인게임 요소들과 플레이어의 성격(MBTI)간의 연관성을 조사하였으며, 이를 위해 프로관전러 유튜버 팀과 협업하여 설문조사를 기획하였습니다).
 
-**Immersion Camp (CS496, KAIST)** (Dec 2018 - Feb 2019)
+**Immersion Camp (CS496, KAIST)** (Winter 2018)
 
 - Developed two Android apps, one web service and two Unity games in five weeks.
 
