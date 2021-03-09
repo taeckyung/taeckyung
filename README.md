@@ -70,9 +70,8 @@ Awards & Honors
 Technical Experience
 ---------------------
 
-| | |
+| **Programming Languages** | **Python**, C++, C, Kotlin, TypeScript |
 |:---|:---|
-| **Programming Languages** | Python, C++, C, Kotlin, TypeScript |
 | **Mobile Development** | Android, Angular |
 | **Web Development** | HTML/CSS, PHP |
 | **Server Development** | NodeJS, Flask, MySQL, MongoDB |
