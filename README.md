@@ -3,7 +3,7 @@ Taeckyung LEE
 
 [terry00123@kaist.ac.kr] [https://github.com/terry00123]
 
-# Mobile Computing # Human-Computer Interaction # Computational Psychology # ESports
+`# Mobile Computing # Human-Computer Interaction # Computational Psychology # ESports`
 
 
 Education
