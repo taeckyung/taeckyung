@@ -79,7 +79,11 @@ Awards & Honors
 Technical Experience
 ---------------------
 
-| **Programming Languages** | **Python**, C++, C, Kotlin, TypeScript |
+| **Programming Languages** | 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF), 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF), 
+![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF), 
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF) |
 |:---|:---|
 
 <!--
