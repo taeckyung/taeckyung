@@ -71,21 +71,15 @@ Class Projects
 Awards & Honors
 ---------------
 
-**The National Scholarship for Science and Engineering** (2018 - 2019)
-
 **Kwon Young-Se Scholarship, School of Electrical Engineering, KAIST** (Fall 2020)
+
+**The National Scholarship for Science and Engineering** (2018 - 2019)
 
 
 Technical Experience
 ---------------------
 
 | **Programming Languages** | **Python**, C++, C, Kotlin, TypeScript |
-|:---|:---|
-| **Mobile Development** | Android, Angular |
-| **Web Development** | HTML/CSS, PHP |
-| **Server Development** | NodeJS, Flask, MySQL, MongoDB |
-| **Parallel Computing** | CUDA, OpenGL, OpenCL, OpenMP, Pthread |
-| **Visual Computing** | OpenCV, Matlab |
 
 
 <!--
