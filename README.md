@@ -79,12 +79,11 @@ Awards & Honors
 Technical Experience
 ---------------------
 
-| **Programming Languages** | 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF), 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF), 
-![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF), 
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF) |
-|:---|:---|
+**Programming Languages |**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
 
 <!--
 **terry00123/terry00123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
