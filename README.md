@@ -80,7 +80,7 @@ Technical Experience
 ---------------------
 
 | **Programming Languages** | **Python**, C++, C, Kotlin, TypeScript |
-
+|:---|:---|
 
 <!--
 **terry00123/terry00123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
