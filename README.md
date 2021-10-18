@@ -43,9 +43,11 @@ Work Experience
 Teaching Experience
 -------------------
 
-**Teaching Assistant, EE323 Computer Networks (KAIST)** (Mar 2021 - June 2021)
+**Teaching Assistant, EE209 Programming Structures for EE (KAIST)** (Fall 2021)
 
-**Teaching Assistant, CS496 Immersion Camp (KAIST)** (Jun 2019 - Aug 2019)
+**Teaching Assistant, EE323 Computer Networks (KAIST)** (Spring 2021)
+
+**Teaching Assistant, CS496 Immersion Camp (KAIST)** (Summer 2019)
 
 
 Class Projects
