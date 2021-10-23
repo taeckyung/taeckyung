@@ -1,4 +1,4 @@
-Taeckyung LEE
+Taeckyung Lee
 =============
 
 [terry00123@kaist.ac.kr] [https://github.com/terry00123]
