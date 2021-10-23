@@ -33,7 +33,7 @@ Work Experience
 
 - Participated in the industry-academic cooperation project with Netmarble.
 
-- Studied several mobile ad fraud papers and analyzed real-world user log data to inspect mailcious mobile game users.
+- Studied several mobile ad fraud papers and analyzed real-world user log data to inspect malicious mobile game users.
 
 **Individual Study, Computer Architecture Lab (KAIST)** (Jun 2018 - Aug 2018)
 
@@ -55,18 +55,18 @@ Class Projects
 
 **Analysis on Personality and In-Game Factors in League of Legends, Big Data Analysis Using R (CS564, KAIST)** (Fall 2020) [Link](https://github.com/terry00123/CS564-LoL-Personality)
 
-- In-depth analysis of the human personality (MBTI) and in-game factors of League of Legends players by surveying collaboration with the Professional Spectator Youtube channel (리그 오브 레전드의 주 플레이 챔피언과 관련된 인게임 요소들과 플레이어의 성격(MBTI)간의 연관성을 조사하였으며, 이를 위해 프로관전러 유튜버 팀과 협업하여 설문조사를 기획하였습니다).
+- In-depth analysis of the human personality (MBTI) and in-game factors of League of Legends players by surveying collaboration with the Professional Spectator Youtube channel (리그 오브 레전드의 주 플레이 챔피언과 관련된 인게임 요소들과 플레이어의 성격(MBTI)간의 연관성을 조사하였으며, 이를 위해 [프로관전러 유튜버 팀](https://www.youtube.com/channel/UCqI5lyTpC79pOy2D-VXAMdA)과 협업하여 설문조사를 기획하였습니다).
 
 
 **LiveSync: Acoustic-based Live Video Synchronization (CS442, KAIST)** (Fall 2019) [Link](https://github.com/terry00123/livesync)
 
-- Developed an Android system for ynchronizing video streaming between multiple devices.
+- Developed an Android system for synchronizing video streaming between multiple devices.
 
 **Immersion Camp (CS496, KAIST)** (Winter 2018)
 
-- Developed two Android apps, one web service and two Unity games in five weeks.
+- Developed two Android apps, one web service, and two Unity games in five weeks.
 
-- Web service of coin karaoke status page was implemented with HTML/CSS with NodeJS connected to Arduino. Received an offer of teaching assistant in recognition of the result.
+- Web service of the coin karaoke status page was implemented with HTML/CSS with NodeJS connected to Arduino. Received an offer of teaching assistant in recognition of the result.
 
 
 
