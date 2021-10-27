@@ -11,7 +11,7 @@ Education
 
 **M.S. in Electrical Engineering, KAIST** (Aug 2020 - )
 
-- Networking and Mobile Systems Lab (Advisor: Sung-Ju Lee)
+- [Networking and Mobile Systems Lab](https://nmsl.kaist.ac.kr) (Advisor: [Sung-Ju Lee](https://sites.google.com/site/wewantsj/))
 
 **B.S. in School of Computing, KAIST** (Feb 2016 - Aug 2020)
 
