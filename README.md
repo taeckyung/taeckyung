@@ -1,7 +1,15 @@
 Taeckyung Lee
 =============
 
-[terry00123@kaist.ac.kr] [https://github.com/terry00123]
+[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/terry00123)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004804684905)](https://www.facebook.com/profile.php?id=100004804684905)
+[![KAIST Mail Badge](https://img.shields.io/badge/KAIST_Mail-1487c8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terry00123@kaist.ac.kr)](mailto:terry00123@kaist.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terry00123@gmail.com)](mailto:terry00123@gmail.com)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
 
 `# Mobile Computing` `# Human-Computer Interaction` `# Computational Psychology` `# ESports`
 
@@ -77,15 +85,6 @@ Awards & Honors
 
 **The National Scholarship for Science and Engineering** (2018 - 2019)
 
-
-Technical Experience
----------------------
-
-**Programming Languages |**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=FFFFFF)
-![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
 
 <!--
 **terry00123/terry00123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
