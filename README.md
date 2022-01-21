@@ -90,9 +90,13 @@ ESports
 --------
 
 **Champion, KAIST-POSTECH Cyber Science War, Overwatch** (2017)
+
 **Overwatch Top-30 Player in KR Server** (2017)
+
 **Champion, KAIST-POSTECH Science War, League of Legends** (2019)
+
 **Champion in Daejeon Metropolitan City, IEF (International e-Spots Festival)** (2019)
+
 **League of Legends Top 0.1% Player in KR Server** (2020)
 
 
