@@ -95,7 +95,7 @@ ESports
 
 **Champion, KAIST-POSTECH Science War, League of Legends** (2019)
 
-**Champion in Daejeon Metropolitan City, IEF (International e-Spots Festival)** (2019)
+**Champion in Daejeon Metropolitan City, IEF (International e-Spots Festival), League of Legends** (2019)
 
 **Top 0.1% Player (Master tier) in KR Server, League of Legends** (2020)
 
