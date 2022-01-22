@@ -25,7 +25,7 @@ Education
 
 - Advanced Major
 - Certificate in AI
-- Magna Cum Laude
+- Magna Cum Laude (GPA: 3.96 / 4.30)
 
 
 Work Experience
