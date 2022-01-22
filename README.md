@@ -23,9 +23,9 @@ Education
 
 **B.S. in School of Computing, KAIST** (Feb 2016 - Aug 2020)
 
-- Advanced Major
-- Certificate in AI
-- Magna Cum Laude (GPA: 3.96 / 4.30)
+- Advanced Major *(School of Computing)*
+- Certificate in AI *(School of Computing)*
+- Magna Cum Laude *(GPA: 3.96 / 4.30)*
 
 
 Work Experience
