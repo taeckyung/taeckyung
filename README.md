@@ -89,16 +89,15 @@ Awards & Honors
 ESports
 --------
 
-**Champion, KAIST-POSTECH Cyber Science War, Overwatch** (2017)
+**Top 0.1% Player (Master tier) in KR Server, League of Legends** (2020)
 
-**Top-30 Player in KR Server, Overwatch** (2017)
+**Champion in Daejeon Metropolitan City, IEF (International e-Sports Festival), League of Legends** (2019)
 
 **Champion, KAIST-POSTECH Science War, League of Legends** (2019)
 
-**Champion in Daejeon Metropolitan City, IEF (International e-Spots Festival), League of Legends** (2019)
+**Top-30 Player in KR Server, Overwatch** (2017)
 
-**Top 0.1% Player (Master tier) in KR Server, League of Legends** (2020)
-
+**Champion, KAIST-POSTECH Cyber Science War, Overwatch** (2017)
 
 <!--
 **terry00123/terry00123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
