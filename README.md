@@ -95,7 +95,7 @@ ESports
 
 **Champion, KAIST-POSTECH Science War, League of Legends** (2019)
 
-**Top-30 Player in KR Server, Overwatch** (2017)
+**Top-100 Player in KR Server, Overwatch** (2017)
 
 **Champion, KAIST-POSTECH Cyber Science War, Overwatch** (2017)
 
