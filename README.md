@@ -31,7 +31,7 @@ Education
 Publications
 ------------
 
-**(To appear) Taeckyung Lee, Dain Kim, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Predicting Mind-Wandering with Facial Videos in Online Lectures. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, June 2022.
+- (To appear) Taeckyung Lee, Dain Kim, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Predicting Mind-Wandering with Facial Videos in Online Lectures. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, June 2022.
 
 
 Teaching Experience
