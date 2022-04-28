@@ -28,6 +28,31 @@ Education
 - Magna Cum Laude *(GPA: 3.96 / 4.30)*
 
 
+Publications
+------------
+
+**(To appear) Taeckyung Lee, Dain Kim, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Predicting Mind-Wandering with Facial Videos in Online Lectures. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, June 2022.
+
+
+Teaching Experience
+-------------------
+
+**Teaching Assistant, EE209 Programming Structures for EE (KAIST)** (Fall 2021)
+
+**Teaching Assistant, EE323 Computer Networks (KAIST)** (Spring 2021)
+
+**Teaching Assistant, CS496 Immersion Camp (KAIST)** (Summer 2019)
+
+
+
+Awards & Honors
+---------------
+
+**Kwon Young-Se Scholarship, School of Electrical Engineering, KAIST** (Fall 2020)
+
+**The National Scholarship for Science and Engineering** (2018 - 2019)
+
+
 Work Experience
 ---------------
 
@@ -48,16 +73,6 @@ Work Experience
 - Studied GPU parallel architectures and OpenCL-based sparse matrix libraries.
 
 
-Teaching Experience
--------------------
-
-**Teaching Assistant, EE209 Programming Structures for EE (KAIST)** (Fall 2021)
-
-**Teaching Assistant, EE323 Computer Networks (KAIST)** (Spring 2021)
-
-**Teaching Assistant, CS496 Immersion Camp (KAIST)** (Summer 2019)
-
-
 Class Projects
 --------------
 
@@ -75,15 +90,6 @@ Class Projects
 - Developed two Android apps, one web service, and two Unity games in five weeks.
 
 - Web service of the coin karaoke status page was implemented with HTML/CSS with NodeJS connected to Arduino. Received an offer of teaching assistant in recognition of the result.
-
-
-
-Awards & Honors
----------------
-
-**Kwon Young-Se Scholarship, School of Electrical Engineering, KAIST** (Fall 2020)
-
-**The National Scholarship for Science and Engineering** (2018 - 2019)
 
 
 ESports
