@@ -17,7 +17,11 @@ Taeckyung Lee
 Education
 ---------
 
-**M.S. in Electrical Engineering, KAIST** (Aug 2020 - )
+**Ph.D. in Electrical Engineering, KAIST** (Sep 2022 - Present)
+
+- [Networking and Mobile Systems Lab](https://nmsl.kaist.ac.kr) (Advisor: [Sung-Ju Lee](https://sites.google.com/site/wewantsj/))
+
+**M.S. in Electrical Engineering, KAIST** (Sep 2020 - Aug 2022)
 
 - [Networking and Mobile Systems Lab](https://nmsl.kaist.ac.kr) (Advisor: [Sung-Ju Lee](https://sites.google.com/site/wewantsj/))
 
