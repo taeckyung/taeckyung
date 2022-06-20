@@ -31,16 +31,16 @@ Education
 Publications
 ------------
 
-- **Taeckyung Lee**, Dain Kim, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Predicting Mind-Wandering with Facial Videos in Online Lectures. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, June 2022.
-- **Taeckyung Lee**, Hye-Young Chung, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Demo: Real-Time Attention State Visualization of Online Classes. In *Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services*, June 2022 (to appear).
+- **Taeckyung Lee**, Dain Kim, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Predicting Mind-Wandering with Facial Videos in Online Lectures. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, pp. 2104-2113, 2022.
+- **Taeckyung Lee**, Hye-Young Chung, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Demo: Real-Time Attention State Visualization of Online Classes. In *Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services*, 2022 (to appear).
 
 
 Teaching Experience
 -------------------
 
-**Teaching Assistant, EE209 Programming Structures for EE (KAIST)** (Fall 2021)
+**Teaching Assistant, EE323 Computer Networks (KAIST)** (Spring 2022, Spring 2021)
 
-**Teaching Assistant, EE323 Computer Networks (KAIST)** (Spring 2021)
+**Teaching Assistant, EE209 Programming Structures for EE (KAIST)** (Fall 2021)
 
 **Teaching Assistant, CS496 Immersion Camp (KAIST)** (Summer 2019)
 
