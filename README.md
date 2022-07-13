@@ -32,11 +32,16 @@ Education
 - Magna Cum Laude *(GPA: 3.96 / 4.30)*
 
 
-Publications
+Conference/Workshop Publications
 ------------
 
 - **Taeckyung Lee**, Dain Kim, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Predicting Mind-Wandering with Facial Videos in Online Lectures. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, pp. 2104-2113, 2022.
-- **Taeckyung Lee**, Hye-Young Chung, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Demo: Real-Time Attention State Visualization of Online Classes. In *Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services*, 2022 (to appear).
+
+
+Poster/Demo Publications
+-----------
+
+- **Taeckyung Lee**, Hye-Young Chung, Sooyoung Park, Dongwhi Kim, and Sung-Ju Lee. Real-Time Attention State Visualization of Online Classes. In *Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services*, pp. 603-604, 2022.
 
 
 Teaching Experience
