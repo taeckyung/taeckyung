@@ -2,6 +2,7 @@ Taeckyung Lee
 =============
 
 [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/terry00123)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeckyung-lee/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004804684905)](https://www.facebook.com/profile.php?id=100004804684905)
 [![KAIST Mail Badge](https://img.shields.io/badge/KAIST_Mail-1487c8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terry00123@kaist.ac.kr)](mailto:terry00123@kaist.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terry00123@gmail.com)](mailto:terry00123@gmail.com)
