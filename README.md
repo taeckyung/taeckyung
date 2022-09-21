@@ -50,7 +50,7 @@ Poster/Demo Publications
 Teaching Experience
 -------------------
 
-**Teaching Assistant, `EE595 Mobile Computing, Sensing, Learning, and Interactions`, KAIST** (Spring 2022, Spring 2021)
+**Teaching Assistant, `EE595 Mobile Computing, Sensing, Learning, and Interactions`, KAIST** (Fall 2022)
 
 **Teaching Assistant, `EE323 Computer Networks`, KAIST** (Spring 2022, Spring 2021)
 
