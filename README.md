@@ -1,7 +1,7 @@
 Taeckyung Lee
 =============
 
-Last Updated: 02 Aug 2022
+Last Updated: 21 Sep 2022
 
 [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/terry00123)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeckyung-lee/)
@@ -50,11 +50,13 @@ Poster/Demo Publications
 Teaching Experience
 -------------------
 
-**Teaching Assistant, EE323 Computer Networks (KAIST)** (Spring 2022, Spring 2021)
+**Teaching Assistant, `EE595 Mobile Computing, Sensing, Learning, and Interactions`, KAIST** (Spring 2022, Spring 2021)
 
-**Teaching Assistant, EE209 Programming Structures for EE (KAIST)** (Fall 2021)
+**Teaching Assistant, `EE323 Computer Networks`, KAIST** (Spring 2022, Spring 2021)
 
-**Teaching Assistant, CS496 Immersion Camp (KAIST)** (Summer 2019)
+**Teaching Assistant, `EE209 Programming Structures for EE`, KAIST** (Fall 2021)
+
+**Teaching Assistant, `CS496 Immersion Camp`, KAIST** (Summer 2019)
 
 
 
@@ -69,19 +71,19 @@ Awards & Honors
 Work Experience
 ---------------
 
-**Undergraduate Researcher, Networking and Mobile Systems Lab (KAIST)** (Mar 2020 - Jul 2020)
+**Undergraduate Researcher, Networking and Mobile Systems Lab, KAIST** (Mar 2020 - Jul 2020)
 
 **Software Developer, Deepscent Co. Ltd** (Dec 2019 - Feb 2020)
 
 - Developed a market-released mobile application with Angular & Flask.
 
-**Undergraduate Researcher, Advanced Networking Lab (KAIST)** (Mar 2019 - Dec 2019)
+**Undergraduate Researcher, Advanced Networking Lab, KAIST** (Mar 2019 - Dec 2019)
 
 - Participated in the industry-academic cooperation project with Netmarble.
 
 - Studied several mobile ad fraud papers and analyzed real-world user log data to inspect malicious mobile game users.
 
-**Individual Study, Computer Architecture Lab (KAIST)** (Jun 2018 - Aug 2018)
+**Individual Study, Computer Architecture Lab, KAIST** (Jun 2018 - Aug 2018)
 
 - Studied GPU parallel architectures and OpenCL-based sparse matrix libraries.
 
@@ -110,11 +112,11 @@ ESports
 
 **Top 0.1% Player (Master tier) in KR Server, League of Legends** (2020)
 
-**Champion in Daejeon Metropolitan City, IEF (International e-Sports Festival), League of Legends** (2019)
+**Champion in Daejeon Metropolitan City, International e-Sports Festival (IEF), League of Legends** (2019)
 
 **Champion, KAIST-POSTECH Science War, League of Legends** (2019)
 
-**Top-100 Player in KR Server, Overwatch** (2017)
+**Top-500 Player in KR Server, Overwatch** (2017)
 
 **Champion, KAIST-POSTECH Cyber Science War, Overwatch** (2017)
 
