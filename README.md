@@ -50,11 +50,11 @@ Poster/Demo Publications
 Teaching Experience
 -------------------
 
+**Teaching Assistant, `EE209 Programming Structures for EE`, KAIST** (Spring 2023, Fall 2021)
+
 **Teaching Assistant, `EE595 Mobile Computing, Sensing, Learning, and Interactions`, KAIST** (Fall 2022)
 
 **Teaching Assistant, `EE323 Computer Networks`, KAIST** (Spring 2022, Spring 2021)
-
-**Teaching Assistant, `EE209 Programming Structures for EE`, KAIST** (Fall 2021)
 
 **Teaching Assistant, `CS496 Immersion Camp`, KAIST** (Summer 2019)
 
