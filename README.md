@@ -1,7 +1,7 @@
 Taeckyung Lee
 =============
 
-Last Updated: 07 Mar 2023
+Last Updated: 14 Mar 2023
 
 [![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/terry00123)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeckyung-lee/)
@@ -14,7 +14,7 @@ Last Updated: 07 Mar 2023
 ![C](https://img.shields.io/badge/-C-888888?style=flat&logo=c&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
 
-`# Mobile Computing` `# Human-Computer Interaction` `# Computational Psychology` `# ESports`
+`# Mobile Computing` `# Mobile AI` `# Human-Computer Interaction` `# ESports`
 
 
 Education
